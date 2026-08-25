@@ -278,7 +278,7 @@ Un robot étant toujours géré par une vraie personne, l'intérêt de ce délai
 Copiez et partagez le lien avec l'internaute testé, mais uniquement à lui (par message privée par exemple). Si ce n'est pas le cas, il vous sera alors difficile de savoir si celui qui s'est identifié, est bien l'internaute que vous souhaitiez tester. En effet, le lien personnalise une demande à travers un identifiant unique, présent dans l'URL du lien, mais n'a aucun rapport avec l'internaute testé. Autrement dit, n'importe qui qui ouvrirait ce lien, pourrait s'identifier lui-même comme n'étant pas un robot.<br><br>
 <b>3. Contrôle du lien</b><br><br>
 Pour contrôler si l'internaute testé s'est identifié comme étant une vraie personne, il vous suffit d'ouvrir le lien et de voir ce qu'il en est :<br><br>
-&#9632; Si un décompte du délai et le reCAPTCHA avec la coche "Je ne suis pas un robot" est présent, c'est qu'il ne sait toujours pas identifié. Un bouton "Rafraichir" permet d'actualiser, de mettre à jour ce contrôle.<br>
+&#9632; Si le décompte du délai et le reCAPTCHA avec la coche "Je ne suis pas un robot" sont présent, c'est qu'il ne sait toujours pas identifié. Un bouton "Rafraichir" permet d'actualiser, de mettre à jour, ce contrôle.<br>
 &#9632; Si la mention "Je suis une personne !" s'affiche, c'est que l'internaute s'est bien identifié comme étant une personne réelle. Pour des raisons techniques, cette mention restera affichée durant 24 heures suivant la création du lien.<br>
 &#9632; Si la mention "Expiré ou invalide" s'affiche, c'est que le délai défini a expiré (ou que 24 heures se sont écoulées).<br><br>
 En espérant que ce site vous soit utile.<br><br>
