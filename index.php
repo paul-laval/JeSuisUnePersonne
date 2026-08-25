@@ -292,8 +292,8 @@ Afin de rassurer les internautes testés, et éviter tout refus d'utiliser le li
                     <select name="delay" required>
                         <option value="1">1 min</option>
                         <option value="2">2 min</option>
-                        <option value="5" selected="selected">5 min</option>
-                        <option value="10">10 min</option>
+                        <option value="5">5 min</option>
+                        <option value="10" selected="selected">10 min</option>
                         <option value="15">15 min</option>
                         <option value="30">1/2 heure</option>
                     </select>
