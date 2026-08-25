@@ -268,7 +268,7 @@ if ($error == 0) {
     <script src="https://www.google.com/recaptcha/enterprise.js" async defer></script>
 </head>
 <body>
-    <div id="intro" class="overlay"><p><b>Mode d'emploi</b><br><br>
+    <div id="intro" class="overlay"><p><b><span style="font-size: 24px;">Mode d'emploi</span></b><br><br>
 Ce site vous permet de créer un lien personnalisé, afin de vérifier qu'un internaute avec qui vous échangez est bien une personne réelle et non un robot (une IA utilisant un compte). L'idée étant de proposer à cet internaute d'ouvrir le lien, pour qu'il s'identifie comme n'étant pas un robot grâce à l'outil de détection <a href="https://cloud.google.com/security/products/recaptcha" target="_blank">reCAPTCHA v2</a> de Google.<br><br>
 L'utilisation du site se fait en 3 étapes.<br><br>
 <b>1. Création d'un lien</b><br><br>
