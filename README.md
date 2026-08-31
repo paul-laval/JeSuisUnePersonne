@@ -22,6 +22,6 @@ Copiez et partagez le lien avec l'internaute testé, mais uniquement à lui (par
 
 Pour contrôler si l'internaute testé s'est identifié comme étant une vraie personne, il vous suffit d'ouvrir le lien et de voir ce qu'il en est :
 
-* Si le décompte du délai et le reCAPTCHA avec la coche "Je ne suis pas un robot" sont présent, c'est qu'il ne sait toujours pas identifié. Un bouton "Rafraichir" permet d'actualiser, de mettre à jour, ce contrôle.
+* Si le décompte du délai et le reCAPTCHA avec la coche "Je ne suis pas un robot" sont présents, c'est qu'il ne sait toujours pas identifié. Un bouton "Rafraichir" permet d'actualiser, de mettre à jour, ce contrôle.
 * Si la mention "Je suis une personne !" s'affiche, c'est que l'internaute s'est bien identifié comme étant une personne réelle. Pour des raisons techniques, cette mention restera affichée durant 3 jours suivant la création du lien.
 * Si la mention "Expiré ou invalide" s'affiche, c'est que le délai défini a expiré (ou que 3 jours se sont écoulées).
