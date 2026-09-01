@@ -37,10 +37,10 @@ opcache_reset();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta property="og:title" content="Je suis une personne !" />
-    <meta property="og:description" content="Site de détection de robot personnalisé" />
+    <meta property="og:description" content="Site de détection de robots personnalisé" />
     <meta property="og:image" content="https://jesuisunepersonne.fr/logo.png" />
     <meta property="og:url" content="https://jesuisunepersonne.fr" />
-    <meta name="description" content="Site de détection de robot personnalisé" />
+    <meta name="description" content="Site de détection de robots personnalisé" />
     <link rel="icon" href="https://jesuisunepersonne.fr/logo.ico" />
     <link rel="image_src" type="image/png" href="https://jesuisunepersonne.fr/logo.png" />
     <link rel="stylesheet" href="styles.css" />
